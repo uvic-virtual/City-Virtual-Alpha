@@ -1,16 +1,20 @@
 fileFormatVersion: 2
 guid: 250387197ffad54468946029f9774ec6
-timeCreated: 18446744011573954816
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     100002: Exported_Mesh Combined Mesh
+    100004: Exported_Mesh_Combined_Mesh
     400000: //RootNode
     400002: Exported_Mesh Combined Mesh
+    400004: Exported_Mesh_Combined_Mesh
     2300000: Exported_Mesh Combined Mesh
+    2300002: Exported_Mesh_Combined_Mesh
     3300000: Exported_Mesh Combined Mesh
+    3300002: Exported_Mesh_Combined_Mesh
     4300000: Exported_Mesh Combined Mesh
+    4300002: Exported_Mesh_Combined_Mesh
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -31,6 +35,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -62,6 +67,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
