@@ -6,13 +6,23 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: Exported_Mesh Combined Mesh
+    100004: Exported_Mesh_Combined_Mesh
     400000: //RootNode
     400002: Exported_Mesh Combined Mesh
+    400004: Exported_Mesh_Combined_Mesh
     2300000: Exported_Mesh Combined Mesh
+    2300002: Exported_Mesh_Combined_Mesh
     3300000: Exported_Mesh Combined Mesh
+    3300002: Exported_Mesh_Combined_Mesh
     4300000: Exported_Mesh Combined Mesh
+    4300002: Exported_Mesh_Combined_Mesh
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exported_Mesh_Combined_MeshMat
+    second: {fileID: 2100000, guid: ade6ec9529b1dd74482466dd69bfc50f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
